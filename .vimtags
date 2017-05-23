@@ -1,0 +1,25 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ALL	/Users/ysicing/Work/code/upload/demo.py	/^from flask_uploads import UploadSet, IMAGES, configure_uploads, ALL$/;"	i	language:Python
+app	/Users/ysicing/Work/code/upload/demo.py	/^app = Flask(__name__)$/;"	v	language:Python
+configure_uploads	/Users/ysicing/Work/code/upload/demo.py	/^from flask_uploads import UploadSet, IMAGES, configure_uploads, ALL$/;"	i	language:Python
+Flask	/Users/ysicing/Work/code/upload/demo.py	/^from flask import request, Flask, redirect, url_for, render_template$/;"	i	language:Python
+holy_jesus_section	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^def holy_jesus_section():$/;"	f	language:Python
+IMAGES	/Users/ysicing/Work/code/upload/demo.py	/^from flask_uploads import UploadSet, IMAGES, configure_uploads, ALL$/;"	i	language:Python
+os	/Users/ysicing/Work/code/upload/demo.py	/^import os$/;"	i	language:Python
+os	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^import os$/;"	i	language:Python
+photos	/Users/ysicing/Work/code/upload/demo.py	/^photos = UploadSet('PHOTO')$/;"	v	language:Python
+redirect	/Users/ysicing/Work/code/upload/demo.py	/^from flask import request, Flask, redirect, url_for, render_template$/;"	i	language:Python
+render_template	/Users/ysicing/Work/code/upload/demo.py	/^from flask import request, Flask, redirect, url_for, render_template$/;"	i	language:Python
+request	/Users/ysicing/Work/code/upload/demo.py	/^from flask import request, Flask, redirect, url_for, render_template$/;"	i	language:Python
+requests	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^import requests$/;"	i	language:Python
+show	/Users/ysicing/Work/code/upload/demo.py	/^def show(name):$/;"	f	language:Python
+sqli_scan	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^def sqli_scan(link):$/;"	f	language:Python
+sql_errors	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^sql_errors = {$/;"	v	language:Python
+sql_payloads	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^sql_payloads = ["'",$/;"	v	language:Python
+strftime	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^from time import strftime$/;"	i	language:Python
+upload	/Users/ysicing/Work/code/upload/demo.py	/^def upload():$/;"	f	language:Python
+UploadSet	/Users/ysicing/Work/code/upload/demo.py	/^from flask_uploads import UploadSet, IMAGES, configure_uploads, ALL$/;"	i	language:Python
+urllib2	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^import urllib2$/;"	i	language:Python
+url_for	/Users/ysicing/Work/code/upload/demo.py	/^from flask import request, Flask, redirect, url_for, render_template$/;"	i	language:Python
+xss_payloads	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^xss_payloads = [$/;"	v	language:Python
+xss_scan	/Users/ysicing/Work/code/VulScan/Vul_Scan/checkVul.py	/^def xss_scan(link):$/;"	f	language:Python
