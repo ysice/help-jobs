@@ -11,6 +11,7 @@
 - [其他工具](#其他工具)
 
 ## 开发工具
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Python开发神器
 * [Atom](https://atom.io) - GitHub推出的开源编辑器
 * [Sublime Text](http://www.sublimetext.com/3) - 强大的编辑器，轻量写Python也不错
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的编辑器
@@ -24,6 +25,14 @@
 * [iTerm2](http://www.iterm2.com) - 终端神器
 * [Oh my zsh](http://ohmyz.sh) - 和iTerm2配合神器
 * [DataGrip](http://www.jetbrains.com/datagrip/) - jetbrains公司旗下一款数据库管理工具
+* [Homebrew](https://brew.sh/)  - Homebrew
+* [Homebrew Cask](http://caskroom.github.io) - Homebrew扩展
+* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - ShadowsocksX客户端软件
+* [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/all/) - 开发者版本火狐浏览器
+* [FileZilla](https://filezilla-project.org) - 跨平台的FTP工具，很少用
+* [Quiver](http://happenapps.com/#quiver) - 笔记 神器
+* [Robomongo](https://robomongo.org/) - MongoDB图形化客户端
 
 
 ## 虚拟机
@@ -37,9 +46,13 @@
 * [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 钉钉
 * [网易云音乐](http://music.163.com/) - 黄易云音乐 (@温酒听歌写代码 互粉= =)
+* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典神器
 *
 ## 其他工具
-
+* [Alfred](https://www.alfredapp.com/) - 效率神器
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较
 * [PPRows](https://github.com/jkpang/PPRows) - 计算你写了多少行代码
 * [Foxmail](http://www.foxmail.com/mac/) - 邮件客户端
+* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件
+* [iStat](https://bjango.com/mac/istatmenus/) - 电脑硬件信息检测软件
+* [LICEcap](http://www.cockos.com/licecap/) - 录屏软件
