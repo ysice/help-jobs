@@ -6,4 +6,5 @@
 - [Github上好的项目](Good_github_repo.md)
 
 # plugins
-一些Python简单工具
+
+- [常用脚本](plugins/README.md)
