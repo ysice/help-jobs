@@ -63,3 +63,7 @@
 * [iStat](https://bjango.com/mac/istatmenus/) - 电脑硬件信息检测软件
 * [LICEcap](http://www.cockos.com/licecap/) - 录屏软件
 * [CleanMyMac]() - CleanMyMac 清理工具
+
+## 插件
+
+* [Play With Docker](https://chrome.google.com/webstore/detail/play-with-docker/kibbhpioncdhmamhflnnmfonadknnoan) - Docker神器吧
